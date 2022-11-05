@@ -1,0 +1,22 @@
+body{color: red; background-color:black;}
+header{background-color: aqua;}
+main{background-color: brown;}
+p{color: green;}
+.pirveli-p{color: blueviolet;}
+#pirveli-p{color: black;}
+.text{color: black; background-color: chocolate;margin: 100px ;
+padding: 30px 10px;}
+.meorep{color: black;width: 600px;
+margin: 50px auto; background-color: rgba(22, 22, 22, 0.336);
+border: black dashed;
+padding: 30px;
+border: 10px ;  }
+
+
+
+
+
+
+
+
+
